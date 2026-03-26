@@ -15,7 +15,12 @@
 ## 📊 Resultado del Análisis
 A continuación, se muestra la ejecución de la consulta donde se observa el estado del inventario:
 
-<img src="./Results/detalle.png" alt="./Result/control_stock" width="600">
+<details>
+  <summary>🎯 Ver stock  (Like/Between)</summary>
+  <br>
+  <p>Aplicación de filtros específicos para segmentar el catálogo de productos según requerimientos de marketing.</p>
+  <img src="./Results/resultado_stock.png" alt="stock" width="600">
+</details>
 
 ---
 
