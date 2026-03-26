@@ -16,9 +16,9 @@
 A continuación, se muestra la ejecución de la consulta donde se observa el estado del inventario:
 
 <details>
-  <summary>💰 Ver Rentabilidad por Pedido (Cálculos)</summary>
+  <summary>💰 Auditoría de Stock (Cálculos)</summary>
   <br>
-  <p>Cálculo dinámico de ingresos por línea de producto, fundamental para reportes de ventas.</p>
+  <p>🔴 y 🟡 Representan un riesgo de pérdida de ventas.</p>
   <img src="./Scripts/Results/resultado_stock.png" alt="Resultado" width="600">
 </details>
 
