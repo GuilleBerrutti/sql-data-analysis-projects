@@ -15,7 +15,7 @@
 ## 📊 Resultado del Análisis
 A continuación, se muestra la ejecución de la consulta donde se observa el estado del inventario:
 
-![Captura de pantalla del Control de Stock](./Results/resultado_stock.png)
+<img src="./Results/detalle.png" alt="./Result/control_stock" width="600">
 
 ---
 
