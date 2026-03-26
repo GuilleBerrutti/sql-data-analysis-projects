@@ -15,7 +15,7 @@
 ## 📊 Resultado y Evidencia del Análisis
 Para ver cómo se transforman estos conceptos en datos reales, puedes consultar los siguientes recursos:
 
-* **[📄 Ver Script SQL Completo](./Scripts/tu_script_sql.sql)**: Aquí puedes revisar la lógica de los `CASE WHEN` y el cálculo de la valorización.
+* **[📄 Ver Script SQL Completo](proyecto-control-stock/Scripts/script.sql)**: Aquí puedes revisar la lógica de los `CASE WHEN` y el cálculo de la valorización.
 * **[🖼️ Ver Captura del Resultado Final](./Scripts/Results/resultado_stock.png?)**: Visualización del semáforo de inventario (Rojo, Amarillo, Verde).
 
 <details>
